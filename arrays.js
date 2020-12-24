@@ -8,5 +8,5 @@ function addElementToBeginningOfArray()
 
 function destructivelyAddElementToBeginningOfArray() {
   var addKisses = [chocolateBars.unshift("Kisses")];
-  addKisses;
+  chocolateBars;
 }
